@@ -35,6 +35,10 @@ class DashboardScreen extends StatelessWidget {
                       flex: 3,
                       child: ProfileCard(),
                     ),
+                    SizedBox(
+                      width: 0,
+                    ),
+
                   ],
                 ),
 
