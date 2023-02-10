@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\smart-admin-dashboard-master\\smart-admin-dashboard-master\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-2\\files-2.1\\db77983937ab668c05b45bda9ec0348c\\jetified-play-services-auth-20.4.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\smart-admin-dashboard-master\\smart-admin-dashboard-master\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-2\\files-2.1\\db77983937ab668c05b45bda9ec0348c\\jetified-play-services-auth-20.4.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\smart-admin-dashboard-master\\smart-admin-dashboard-master\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-2\\files-2.1\\db77983937ab668c05b45bda9ec0348c\\jetified-play-services-auth-20.4.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    }
+]

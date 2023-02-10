@@ -1,0 +1,4 @@
+#Fri Feb 10 13:52:22 ICT 2023
+base.0=C\:\\smart-admin-dashboard-master\\smart-admin-dashboard-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

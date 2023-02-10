@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\smart-admin-dashboard-master\\smart-admin-dashboard-master\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-2\\files-2.1\\92de4b0d4f715879c82da7143ebad61b\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\smart-admin-dashboard-master\\smart-admin-dashboard-master\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-2\\files-2.1\\92de4b0d4f715879c82da7143ebad61b\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\smart-admin-dashboard-master\\smart-admin-dashboard-master\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-2\\files-2.1\\92de4b0d4f715879c82da7143ebad61b\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_tint.xml"
+    }
+]
